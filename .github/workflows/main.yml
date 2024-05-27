@@ -5,8 +5,7 @@ on:
     branches:
       - main
       
-env:
-  CI: false
+
 
 jobs:
   build:
